@@ -4,8 +4,8 @@
 
 var numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 
-//console.log(numeros.length);
-//console.log(numeros[1], numeros[3], numeros[5], numeros[8]);
+console.log(numeros.length);
+console.log(numeros[1], numeros[3], numeros[5], numeros[8]);
 
 //  //  //  //  //  //  //  //  //  //  //  //
 
@@ -14,11 +14,11 @@ var numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9];
   b)Exibir no console os itens nas posições: 2, 4.
   c)Exibir no console o item na primeira posição.*/
 
-var filmes = ['THOR: AMOR E TROVÃO.', 'ESCAPE ROOM 2: TENSÃO MÁXIMA.', 'VIÚVA NEGRA.', 'UM PRÍNCIPE EM NOVA YORK.', 'O LAR DAS CRIANÇAS PECULIARES.']
+var filmes = ['THOR: AMOR E TROVÃO.', 'ESCAPE ROOM 2: TENSÃO MÁXIMA.', 'VIÚVA NEGRA.', 'UM PRÍNCIPE EM NOVA YORK.', 'O LAR DAS CRIANÇAS PECULIARES.'];
 
-//console.log(filmes.length);
-//console.log("O filme na posição 2 é " + filmes[2] + " E o filme na posição 4 é " +  filmes[4]);
-//console.log(filmes[0]);
+console.log(filmes.length);
+console.log("O filme na posição 2 é " + filmes[2] + " E o filme na posição 4 é " +  filmes[4]);
+console.log(filmes[0]);
 
 //  //  //  //  //  //  //  //  //  //  //  //
 
@@ -30,10 +30,10 @@ var filmes = ['THOR: AMOR E TROVÃO.', 'ESCAPE ROOM 2: TENSÃO MÁXIMA.', 'VIÚV
 var theWarning = ['EVOLVE', 'Runaway', 'CHOKE', 'Copper Bullets', 'Show Me the Light', 'Survive'];
 var ultima = theWarning[theWarning.length -1];
 
-//console.log(theWarning.length);
-//console.log(theWarning[1]);
-//console.log(theWarning[2]);
-//console.log(theWarning[6]);
-//console.log(theWarning[8]);
-//console.log("A música na última posição é " + ultima);
+console.log(theWarning.length);
+console.log(theWarning[1]);
+console.log(theWarning[2]);
+console.log(theWarning[6]);
+console.log(theWarning[8]);
+console.log("A música na última posição é " + ultima);
 //  //  //  //  //  //  //  //  //  //  //  //

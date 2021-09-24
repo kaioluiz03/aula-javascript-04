@@ -14,5 +14,5 @@ mensagemSecreta.splice(7, 5);
 mensagemSecreta.splice(3, 0, mensagemSecreta.splice(4, 1));
 mensagemSecreta.unshift('sabe,');
 mensagemSecreta.splice(7, 0, mensagemSecreta.splice(0, 1));
-console.log(mensagemSecreta)
+
 console.log(mensagemSecreta.join(' '));
